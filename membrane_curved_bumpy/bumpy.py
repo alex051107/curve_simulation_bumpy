@@ -776,7 +776,7 @@ class shapes:
 
             # scale slices to slice_radius
             top_leaflet.scale_flat_to_spherical(r_sphere, r_sphere + zo[0])
-            bot_leaflet.scale_flat_to_spherical(r_sphere, r_sphere - zo[0])
+            bot_leaflet.scale_flat_to_spherical(r_sphere, r_sphere - zo[1])
 
             # merge and transform slices
             top_leaflet.append(bot_leaflet)
