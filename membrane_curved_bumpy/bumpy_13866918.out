@@ -1,0 +1,5 @@
+Job started on c0537.ll.unc.edu at Sun Aug 31 08:52:10 PM EDT 2025
+Reading in PDB file  ... Finished reading PDB with 86893 atoms - time elapsed = 0.4 seconds
+Generating shape     ... Finished - time elapsed = 10.7 seconds
+Writing out PDB file ... Finished writing PDB file with 987434 atoms - time elapsed = 5.3 seconds
+Job finished at Sun Aug 31 08:52:29 PM EDT 2025
